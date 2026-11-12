@@ -8,7 +8,7 @@ Swiss administrative specialist with a background in accounting, document manage
 
 🎮 [Tic Tac Toe](https://jpleschar.github.io/tic-tac-toe/)
 
-🏆 [Animated Kaleidoscope](https://jpleschar.github.io/animated-kaleidoscope/)
+✨ [Animated Kaleidoscope](https://jpleschar.github.io/animated-kaleidoscope/)
 
 📊  Temperature Converter
 
