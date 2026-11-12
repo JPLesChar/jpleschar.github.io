@@ -4,11 +4,14 @@ Swiss administrative specialist with a background in accounting, document manage
 
 ## Featured Projects
 
-♟️ Magnetic Chess Set
+♟️ [Magnetic Chess Set]
+(https://magnetic-chess-set.ai.studio/)
 
-🏆 Club Leaderboard
+🎮 [Tic Tac Toe]
+(https://jpleschar.github.io/tic-tac-toe/)
 
-🎮 Tic Tac Toe
+🏆 [Animated Kaleidoscope]
+(https://jpleschar.github.io/animated-kaleidoscope/)
 
 📊  Temperature Converter
 
