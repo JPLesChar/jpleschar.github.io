@@ -10,7 +10,7 @@ Swiss administrative specialist with a background in accounting, document manage
 
 ✨ [Animated Kaleidoscope](https://jpleschar.github.io/animated-kaleidoscope/)
 
-📊  Temperature Converter
+✊ ✋ ✌️  [Rock Paper Scissors](https://rock-paper-sciapprs-idzbbu35r92efmcnfbheru.streamlit.app/)
 
 ## Technologies
 
