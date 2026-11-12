@@ -1,4 +1,4 @@
-# Hi, I'm JP Charles
+# PORTFOLIO
 
 Swiss administrative specialist with a background in accounting, document management, and community administration. Currently learning Python, Streamlit, and front-end web development while building practical AI-assisted applications.
 
