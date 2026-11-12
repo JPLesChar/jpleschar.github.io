@@ -8,6 +8,8 @@ Swiss administrative specialist with a background in accounting, document manage
 
 🏆 Club Leaderboard
 
+🎮 Tic Tac Toe
+
 📊  Temperature Converter
 
 ## Technologies
