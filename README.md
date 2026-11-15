@@ -12,6 +12,8 @@ Swiss administrative specialist with a background in accounting, document manage
 
 ✊ ✋ ✌️  [Rock Paper Scissors](https://rock-paper-sciapprs-idzbbu35r92efmcnfbheru.streamlit.app/)
 
+⭐ [Sri Yantra](https://sri-yantra-sacred-geometry.ai.studio)
+
 ## Technologies
 
 - Python (currently learning)
