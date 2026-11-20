@@ -4,15 +4,17 @@ Swiss administrative specialist with a background in accounting, document manage
 
 ## Featured Projects
 
-♟️ [Magnetic Chess Set](https://magnetic-chess-set.ai.studio/)
-
 🎮 [Tic Tac Toe](https://jpleschar.github.io/tic-tac-toe/)
+
+🚢[Battleship Game](https://jpleschar.github.io/battleship-game/)
+
+♟️ [Magnetic Chess Set](https://magnetic-chess-set.ai.studio/)
 
 ✨ [Animated Kaleidoscope](https://jpleschar.github.io/animated-kaleidoscope/)
 
 ✊ ✋ ✌️  [Rock Paper Scissors](https://rock-paper-sciapprs-idzbbu35r92efmcnfbheru.streamlit.app/)
 
-🚢[Battleship Game](https://jpleschar.github.io/battleship-game/)
+
 
 
 ## Technologies
